@@ -3,7 +3,7 @@
 A full end-to-end system that predicts university course demand, allocates classrooms optimally, and provides a professional dashboard for decision-makers. Designed using **Machine Learning**, **Optimization**, and **Business Analytics** principles.
 
 ### Live Demo  
-![Streamlit App](https://smart-university-schedular-rw7tcpiv989gvpuo3pr52k.streamlit.app/)
+https://smart-university-schedular-rw7tcpiv989gvpuo3pr52k.streamlit.app/
 
 ## Project Summary
 
