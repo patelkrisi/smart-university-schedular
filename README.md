@@ -19,17 +19,17 @@ All data used is **synthetic**.
 
 ## Project Inputs (Synthetic Data)
 
-- `data/synthetic/courses.csv` — course metadata  
-- `data/synthetic/rooms.csv` — room capacities  
-- `data/synthetic/historical_instances.csv` — historical enrollment for model training  
+- `data/synthetic/courses.csv` - course metadata  
+- `data/synthetic/rooms.csv` - room capacities  
+- `data/synthetic/historical_instances.csv` - historical enrollment for model training  
 
 ---
 
 ##  Project Outputs
 
-- `models/rf_model.joblib` — trained demand prediction model  
-- `data/synthetic/courses_with_predictions.csv` — predicted enrollment per course  
-- `data/synthetic/assignments.csv` — optimized classroom assignment  
+- `models/rf_model.joblib` - trained demand prediction model  
+- `data/synthetic/courses_with_predictions.csv` - predicted enrollment per course  
+- `data/synthetic/assignments.csv` - optimized classroom assignment  
 - Interactive dashboard (`streamlit_app.py`)  
 
 ---
@@ -40,16 +40,16 @@ All data used is **synthetic**.
 Synthetic timetable & enrollment generator  
 Clean structured datasets  
 
-### **Machine Learning — Course Demand Forecasting**
+### **Machine Learning - Course Demand Forecasting**
 Feature engineering (`src/features.py`)  
 RandomForest regression model (`src/model.py`)  
 Training pipeline (`scripts/train_model.py`)  
 
-### **Optimization — Room Allocation**
+### **Optimization - Room Allocation**
 Greedy scheduling algorithm (`src/optimizer.py`)  
 Room + timeslot assignment generation (`scripts/run_optimizer.py`)  
 
-### **Dashboard — Streamlit UI**
+### **Dashboard - Streamlit UI**
 Overview KPIs  
 Course demand forecasting visualizations  
 Room assignment viewer  
