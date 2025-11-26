@@ -57,6 +57,19 @@ Utilization analytics (timeslot demand, room usage%)
 Clean, modern UI with navigation  
 
 ---
+## Project Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](assets/dashboard_overview.png)
+
+### Demand Forecast Page
+![Forecast Page](assets/demand_forecast.png)
+
+### Room Assignment View
+![Room Assignment](assets/room_assignment.png)
+
+### Utilization
+![Utilization](assets/utilization.png)
 
 ## How to Run the Project Locally
 
