@@ -1,0 +1,201 @@
+course_id,course_name,instructor,course_level,duration,room_type,historical_enrollment,expected_students,preferred_timeslots,equipment,hist_mean,hist_len,level_num,predicted_students
+C0000,AI 370,Dr. Lee h,UG,2,lecture,"[65, 54, 67]",64,Mon 12:00-13:00,projector,62.0,3,0,64
+C0001,AI 127,Dr. Kumar g,UG,1,lab,"[58, 56, 46]",58,Mon 14:00-15:00,smartboard,53.333333333333336,3,0,48
+C0002,Mgmt 219,Dr. Garcia q,UG,1,lecture,"[49, 39, 45]",40,,"lab_kits,projector",44.333333333333336,3,0,45
+C0003,Algo 246,Dr. Müller o,UG,1,lecture,"[96, 92, 104]",113,Wed 09:00-10:00;Mon 14:00-15:00,projector,97.33333333333333,3,0,106
+C0004,Sys 160,Dr. Kumar J,UG,1,lecture,"[75, 74, 86]",40,,whiteboard,78.33333333333333,3,0,75
+C0005,AI 489,Dr. Kumar J,UG,2,lecture,"[56, 44, 45]",59,Fri 13:00-14:00,,48.333333333333336,3,0,55
+C0006,Networks 446,Dr. Lee h,UG,1,lecture,"[47, 43, 59]",71,,projector,49.666666666666664,3,0,60
+C0007,Econ 192,Dr. Kumar g,UG,1,lecture,"[54, 49, 61]",52,Wed 08:00-09:00;Tue 10:00-11:00,computers,54.666666666666664,3,0,52
+C0008,Algo 324,Dr. Schultz O,UG,1,lecture,"[39, 46, 41]",40,,computers,42.0,3,0,41
+C0009,Stat 213,Dr. Schultz O,PG,1,lecture,"[14, 21, 22]",15,,"lab_kits,projector",19.0,3,1,18
+C0010,Networks 181,Dr. Smith U,UG,1,lecture,"[48, 50, 62]",36,Wed 13:00-14:00,,53.333333333333336,3,0,48
+C0011,Mgmt 119,Dr. Mehta Z,UG,1,lecture,"[70, 74, 73]",80,,projector,72.33333333333333,3,0,69
+C0012,Mgmt 145,Dr. Schultz E,UG,1,lecture,"[65, 67, 51]",54,Tue 10:00-11:00,,61.0,3,0,56
+C0013,Sys 222,Dr. Singh I,UG,1,lecture,"[48, 65, 44]",34,Mon 14:00-15:00,,52.333333333333336,3,0,45
+C0014,Stat 376,Dr. Kumar c,UG,1,lecture,"[33, 48, 47]",42,,smartboard,42.666666666666664,3,0,43
+C0015,Econ 219,Dr. Müller p,PG,2,lecture,"[25, 19, 18]",18,,,20.666666666666668,3,1,18
+C0016,Networks 457,Dr. Ng F,UG,1,lecture,"[39, 48, 49]",53,Mon 14:00-15:00;Mon 08:00-09:00,"whiteboard,computers",45.333333333333336,3,0,52
+C0017,AI 311,Dr. Mehta n,UG,1,lecture,"[74, 77, 72]",64,Wed 15:00-16:00,,74.33333333333333,3,0,66
+C0018,Stat 437,Dr. Ng N,UG,1,lecture,"[59, 55, 56]",47,Mon 08:00-09:00;Mon 10:00-11:00,lab_kits,56.666666666666664,3,0,48
+C0019,Data 438,Dr. Kumar T,UG,1,lecture,"[70, 56, 58]",70,,"computers,whiteboard",61.333333333333336,3,0,65
+C0020,Sys 376,Dr. Singh R,UG,1,lab,"[77, 84, 90]",86,,,83.66666666666667,3,0,85
+C0021,Econ 253,Dr. Singh M,UG,1,lecture,"[73, 73, 71]",62,,computers,72.33333333333333,3,0,69
+C0022,Data 133,Dr. Mehta A,UG,1,lecture,"[52, 48, 45]",38,Tue 08:00-09:00,,48.333333333333336,3,0,46
+C0023,Stat 264,Dr. Kumar g,UG,1,lab,"[77, 61, 71]",69,Wed 14:00-15:00;Fri 15:00-16:00,,69.66666666666667,3,0,65
+C0024,Algo 127,Dr. Schultz i,UG,1,lab,"[61, 53, 63]",44,Wed 15:00-16:00,whiteboard,59.0,3,0,55
+C0025,AI 498,Dr. Singh R,PG,1,lecture,"[18, 28, 21]",22,Mon 12:00-13:00,"whiteboard,smartboard",22.333333333333332,3,1,22
+C0026,Stat 345,Dr. Schultz `,UG,2,lecture,"[15, 27, 31]",32,,,24.333333333333332,3,0,29
+C0027,Networks 294,Dr. Singh M,PG,2,lecture,"[32, 30, 36]",30,,projector,32.666666666666664,3,1,31
+C0028,Sys 265,Dr. Smith ^,UG,1,lecture,"[47, 47, 50]",35,Wed 15:00-16:00;Tue 13:00-14:00,"whiteboard,lab_kits",48.0,3,0,42
+C0029,Sys 245,Dr. Müller a,PG,1,lab,"[18, 21, 23]",20,,"lab_kits,smartboard",20.666666666666668,3,1,19
+C0030,Algo 185,Dr. Singh I,PG,2,lecture,"[7, 4, 3]",6,Mon 14:00-15:00;Fri 14:00-15:00,computers,4.666666666666667,3,1,6
+C0031,Networks 210,Dr. Ng _,PG,1,lecture,"[36, 32, 37]",40,,whiteboard,35.0,3,1,40
+C0032,Algo 143,Dr. Mehta f,UG,1,lecture,"[43, 42, 41]",40,Fri 15:00-16:00,"whiteboard,lab_kits",42.0,3,0,41
+C0033,Stat 270,Dr. Müller X,UG,1,lab,"[42, 36, 44]",50,,,40.666666666666664,3,0,43
+C0034,Stat 313,Dr. Garcia C,PG,1,lecture,"[26, 25, 24]",18,Fri 14:00-15:00,whiteboard,25.0,3,1,20
+C0035,Econ 273,Dr. Lee \,UG,1,lecture,"[57, 68, 62]",50,Wed 08:00-09:00,lab_kits,62.333333333333336,3,0,68
+C0036,AI 176,Dr. Kumar D,PG,1,lecture,"[28, 27, 29]",27,,,28.0,3,1,26
+C0037,Stat 382,Dr. Mehta A,UG,1,lab,"[51, 34, 39]",42,Tue 09:00-10:00;Thu 12:00-13:00,,41.333333333333336,3,0,40
+C0038,Data 378,Dr. Lee h,UG,1,lab,"[75, 89, 72]",71,,"projector,lab_kits",78.66666666666667,3,0,75
+C0039,AI 342,Dr. Garcia e,PG,1,lecture,"[5, 6, 4]",5,Tue 13:00-14:00;Wed 14:00-15:00,"smartboard,projector",5.0,3,1,5
+C0040,Networks 374,Dr. Mehta A,PG,1,lab,"[24, 22, 20]",12,Mon 15:00-16:00;Thu 13:00-14:00,projector,22.0,3,1,15
+C0041,Calc 398,Dr. Kumar T,UG,1,lecture,"[47, 52, 58]",56,Mon 11:00-12:00,computers,52.333333333333336,3,0,45
+C0042,Stat 361,Dr. Jansen d,UG,1,lab,"[62, 65, 57]",72,,"whiteboard,smartboard",61.333333333333336,3,0,65
+C0043,Data 159,Dr. Singh L,PG,1,lecture,"[53, 35, 60]",37,Fri 09:00-10:00;Wed 08:00-09:00,"smartboard,whiteboard",49.333333333333336,3,1,52
+C0044,Algo 370,Dr. Jansen d,PG,1,lecture,"[4, 5, 7]",5,Wed 11:00-12:00;Thu 08:00-09:00,lab_kits,5.333333333333333,3,1,5
+C0045,Networks 254,Dr. Kumar D,UG,1,lab,"[62, 68, 66]",60,,,65.33333333333333,3,0,60
+C0046,Networks 348,Dr. Garcia G,PG,1,lecture,"[27, 33, 26]",31,Wed 15:00-16:00;Tue 15:00-16:00,projector,28.666666666666668,3,1,27
+C0047,Stat 321,Dr. Ng K,UG,1,lecture,"[46, 45, 67]",44,Tue 10:00-11:00;Fri 15:00-16:00,lab_kits,52.666666666666664,3,0,50
+C0048,Opt 318,Dr. Singh R,UG,2,lab,"[74, 52, 70]",63,Thu 15:00-16:00;Mon 08:00-09:00,"whiteboard,smartboard",65.33333333333333,3,0,65
+C0049,Opt 161,Dr. Mehta f,PG,2,lecture,"[29, 16, 29]",22,,whiteboard,24.666666666666668,3,1,23
+C0050,Stat 184,Dr. Mehta Z,PG,2,lecture,"[42, 33, 36]",35,Tue 15:00-16:00,smartboard,37.0,3,1,35
+C0051,Mgmt 202,Dr. Müller X,UG,1,lab,"[73, 79, 70]",87,Tue 08:00-09:00,"computers,smartboard",74.0,3,0,79
+C0052,Algo 253,Dr. Müller a,UG,1,lecture,"[47, 62, 52]",55,Wed 13:00-14:00,projector,53.666666666666664,3,0,54
+C0053,AI 301,Dr. Singh Q,UG,2,lecture,"[100, 100, 98]",101,,,99.33333333333333,3,0,98
+C0054,Stat 143,Dr. Kumar c,PG,1,lecture,"[54, 47, 47]",65,,smartboard,49.333333333333336,3,1,52
+C0055,Data 239,Dr. Garcia q,UG,1,lab,"[29, 33, 33]",36,Wed 14:00-15:00;Thu 08:00-09:00,"computers,smartboard",31.666666666666668,3,0,34
+C0056,AI 220,Dr. Müller X,UG,1,lab,"[62, 64, 81]",64,,"whiteboard,lab_kits",69.0,3,0,63
+C0057,Mgmt 153,Dr. Müller P,UG,1,lecture,"[44, 41, 54]",54,Mon 09:00-10:00,"lab_kits,whiteboard",46.333333333333336,3,0,51
+C0058,Data 132,Dr. Lee \,UG,1,lecture,"[54, 43, 61]",57,,computers,52.666666666666664,3,0,50
+C0059,Econ 346,Dr. Kumar H,UG,1,lecture,"[61, 80, 66]",61,Fri 13:00-14:00,computers,69.0,3,0,63
+C0060,Sys 462,Dr. Kumar c,UG,2,lecture,"[62, 67, 61]",78,Mon 09:00-10:00,"lab_kits,smartboard",63.333333333333336,3,0,69
+C0061,Sys 227,Dr. Smith ^,UG,1,lab,"[47, 53, 57]",43,Thu 08:00-09:00;Fri 14:00-15:00,"whiteboard,computers",52.333333333333336,3,0,45
+C0062,Opt 440,Dr. Mehta A,UG,1,lab,"[40, 39, 41]",56,Mon 14:00-15:00,,40.0,3,0,50
+C0063,Sys 110,Dr. Garcia m,PG,2,lecture,"[8, 10, 16]",9,,"computers,smartboard",11.333333333333334,3,1,8
+C0064,Econ 367,Dr. Kumar g,UG,1,lab,"[70, 60, 64]",75,,computers,64.66666666666667,3,0,69
+C0065,Data 134,Dr. Singh I,UG,2,lecture,"[56, 59, 49]",47,Mon 13:00-14:00,"lab_kits,computers",54.666666666666664,3,0,50
+C0066,Networks 150,Dr. Garcia e,UG,2,lecture,"[62, 55, 62]",55,Wed 15:00-16:00;Mon 13:00-14:00,,59.666666666666664,3,0,60
+C0067,Sys 365,Dr. Müller X,UG,1,lecture,"[61, 50, 42]",39,Thu 13:00-14:00,"projector,lab_kits",51.0,3,0,45
+C0068,Algo 352,Dr. Mehta B,UG,1,lecture,"[93, 75, 81]",85,Mon 10:00-11:00,,83.0,3,0,85
+C0069,Data 116,Dr. Garcia q,UG,1,lecture,"[53, 63, 57]",72,,"projector,whiteboard",57.666666666666664,3,0,58
+C0070,Opt 168,Dr. Mehta B,UG,1,lab,"[28, 24, 24]",27,,,25.333333333333332,3,0,29
+C0071,Data 308,Dr. Singh R,UG,1,lecture,"[51, 72, 54]",56,Thu 09:00-10:00,,59.0,3,0,55
+C0072,Calc 260,Dr. Singh R,UG,1,lecture,"[62, 66, 58]",48,Tue 13:00-14:00;Tue 09:00-10:00,,62.0,3,0,62
+C0073,Algo 339,Dr. Garcia G,UG,1,lab,"[91, 80, 75]",84,,smartboard,82.0,3,0,84
+C0074,Opt 205,Dr. Schultz O,UG,1,lab,"[49, 54, 46]",51,,smartboard,49.666666666666664,3,0,60
+C0075,Data 412,Dr. Garcia q,UG,2,lecture,"[34, 43, 47]",33,Mon 14:00-15:00;Fri 12:00-13:00,computers,41.333333333333336,3,0,38
+C0076,Sys 227,Dr. Jansen d,UG,2,lecture,"[54, 47, 50]",57,Tue 12:00-13:00;Thu 13:00-14:00,projector,50.333333333333336,3,0,57
+C0077,Opt 368,Dr. Singh ],UG,1,lecture,"[70, 76, 74]",65,Tue 13:00-14:00,"smartboard,whiteboard",73.33333333333333,3,0,66
+C0078,Sys 284,Dr. Schultz i,UG,1,lecture,"[64, 62, 78]",63,Fri 09:00-10:00,computers,68.0,3,0,58
+C0079,Econ 403,Dr. Kumar H,PG,1,lecture,"[39, 65, 46]",57,,projector,50.0,3,1,58
+C0080,Algo 281,Dr. Ng F,UG,2,lecture,"[57, 46, 57]",49,Tue 14:00-15:00,"projector,computers",53.333333333333336,3,0,49
+C0081,Opt 152,Dr. Garcia q,UG,1,lecture,"[65, 54, 66]",42,Thu 08:00-09:00;Tue 15:00-16:00,smartboard,61.666666666666664,3,0,49
+C0082,Algo 200,Dr. Garcia q,PG,1,lecture,"[29, 13, 28]",19,Mon 13:00-14:00,"projector,whiteboard",23.333333333333332,3,1,21
+C0083,Calc 249,Dr. Mehta A,UG,1,lecture,"[39, 37, 35]",36,,whiteboard,37.0,3,0,39
+C0084,AI 260,Dr. Singh k,UG,1,lecture,"[63, 56, 61]",60,Thu 15:00-16:00;Wed 14:00-15:00,"computers,whiteboard",60.0,3,0,58
+C0085,Mgmt 477,Dr. Singh R,UG,1,lecture,"[39, 50, 42]",42,Mon 10:00-11:00,,43.666666666666664,3,0,44
+C0086,Opt 472,Dr. Jansen d,PG,1,lecture,"[40, 39, 30]",32,,,36.333333333333336,3,1,37
+C0087,Data 414,Dr. Garcia G,PG,1,lecture,"[13, 17, 27]",20,Fri 13:00-14:00;Fri 10:00-11:00,whiteboard,19.0,3,1,18
+C0088,Algo 449,Dr. Smith ^,PG,1,lecture,"[67, 71, 81]",52,,projector,73.0,3,1,63
+C0089,Networks 187,Dr. Singh Q,UG,1,lab,"[44, 43, 52]",54,,whiteboard,46.333333333333336,3,0,51
+C0090,Opt 195,Dr. Kumar H,PG,1,lab,"[4, 9, 5]",5,,"lab_kits,smartboard",6.0,3,1,5
+C0091,Data 381,Dr. Kumar g,UG,2,lab,"[92, 80, 90]",103,,"lab_kits,projector",87.33333333333333,3,0,96
+C0092,Econ 414,Dr. Singh R,UG,1,lab,"[67, 60, 57]",44,Wed 09:00-10:00;Fri 13:00-14:00,projector,61.333333333333336,3,0,65
+C0093,Econ 239,Dr. Müller a,UG,2,lecture,"[50, 63, 49]",55,Tue 13:00-14:00,whiteboard,54.0,3,0,53
+C0094,Data 457,Dr. Garcia C,UG,1,lecture,"[60, 64, 66]",44,Mon 12:00-13:00;Fri 11:00-12:00,"whiteboard,computers",63.333333333333336,3,0,49
+C0095,AI 434,Dr. Smith ^,UG,2,lab,"[44, 48, 50]",56,,whiteboard,47.333333333333336,3,0,54
+C0096,Sys 391,Dr. Ng _,UG,1,lecture,"[17, 28, 31]",32,Tue 13:00-14:00,"computers,projector",25.333333333333332,3,0,29
+C0097,Networks 132,Dr. Müller p,UG,2,lecture,"[71, 56, 68]",70,,"whiteboard,projector",65.0,3,0,68
+C0098,Sys 335,Dr. Smith Y,PG,1,lecture,"[9, 4, 5]",4,Wed 14:00-15:00;Mon 09:00-10:00,whiteboard,6.0,3,1,5
+C0099,Stat 348,Dr. Garcia C,UG,1,lecture,"[77, 85, 83]",70,Tue 11:00-12:00;Mon 11:00-12:00,"whiteboard,lab_kits",81.66666666666667,3,0,83
+C0100,Sys 341,Dr. Schultz `,UG,1,lab,"[37, 46, 33]",40,,,38.666666666666664,3,0,41
+C0101,Algo 227,Dr. Schultz `,UG,1,lab,"[59, 72, 69]",61,,projector,66.66666666666667,3,0,62
+C0102,Data 193,Dr. Singh Q,UG,2,lab,"[69, 61, 58]",60,,,62.666666666666664,3,0,62
+C0103,Networks 430,Dr. Singh Q,UG,1,lecture,"[73, 86, 86]",95,Wed 11:00-12:00,,81.66666666666667,3,0,83
+C0104,Sys 144,Dr. Mehta f,UG,1,lecture,"[26, 30, 37]",28,,lab_kits,31.0,3,0,29
+C0105,Calc 343,Dr. Garcia e,UG,1,lecture,"[54, 52, 49]",54,Mon 13:00-14:00;Mon 13:00-14:00,computers,51.666666666666664,3,0,52
+C0106,Opt 125,Dr. Smith U,UG,1,lecture,"[42, 41, 48]",44,Fri 10:00-11:00,computers,43.666666666666664,3,0,44
+C0107,Networks 190,Dr. Müller a,UG,2,lab,"[40, 33, 33]",49,Fri 10:00-11:00;Thu 15:00-16:00,,35.333333333333336,3,0,47
+C0108,Networks 294,Dr. Ng K,UG,1,lecture,"[70, 72, 68]",57,Thu 08:00-09:00;Wed 15:00-16:00,,70.0,3,0,61
+C0109,Opt 245,Dr. Lee \,UG,2,lecture,"[88, 69, 85]",97,,computers,80.66666666666667,3,0,91
+C0110,Calc 395,Dr. Kumar T,UG,2,lab,"[76, 69, 71]",74,Wed 14:00-15:00,"whiteboard,lab_kits",72.0,3,0,70
+C0111,Calc 449,Dr. Kumar D,UG,1,lecture,"[84, 84, 62]",70,,computers,76.66666666666667,3,0,74
+C0112,Algo 121,Dr. Mehta f,UG,1,lab,"[59, 59, 48]",52,,,55.333333333333336,3,0,62
+C0113,Algo 243,Dr. Mehta W,UG,1,lecture,"[44, 43, 57]",48,,"projector,computers",48.0,3,0,42
+C0114,Opt 417,Dr. Schultz r,UG,1,lecture,"[47, 47, 44]",59,,whiteboard,46.0,3,0,55
+C0115,Mgmt 228,Dr. Garcia q,UG,1,lecture,"[66, 48, 58]",46,Tue 10:00-11:00;Fri 08:00-09:00,,57.333333333333336,3,0,54
+C0116,AI 163,Dr. Garcia b,UG,1,lecture,"[84, 74, 72]",80,Fri 15:00-16:00;Wed 09:00-10:00,"smartboard,computers",76.66666666666667,3,0,74
+C0117,AI 206,Dr. Jansen j,UG,1,lecture,"[74, 57, 61]",53,Mon 13:00-14:00;Thu 13:00-14:00,"projector,computers",64.0,3,0,59
+C0118,Calc 377,Dr. Garcia e,UG,1,lecture,"[41, 48, 30]",27,Thu 13:00-14:00;Wed 11:00-12:00,,39.666666666666664,3,0,36
+C0119,AI 303,Dr. Schultz i,UG,1,lecture,"[74, 71, 72]",52,,computers,72.33333333333333,3,0,69
+C0120,Stat 411,Dr. Müller S,UG,1,lecture,"[79, 75, 64]",49,Thu 13:00-14:00,"computers,smartboard",72.66666666666667,3,0,56
+C0121,Stat 231,Dr. Garcia q,UG,1,lab,"[48, 25, 45]",43,,,39.333333333333336,3,0,39
+C0122,AI 159,Dr. Schultz O,UG,1,lecture,"[54, 48, 53]",52,,,51.666666666666664,3,0,52
+C0123,Networks 453,Dr. Singh L,UG,1,lab,"[60, 49, 73]",59,Tue 10:00-11:00,whiteboard,60.666666666666664,3,0,57
+C0124,Sys 113,Dr. Schultz O,UG,1,lecture,"[82, 79, 82]",85,Thu 08:00-09:00;Thu 14:00-15:00,computers,81.0,3,0,86
+C0125,AI 335,Dr. Schultz V,UG,1,lecture,"[90, 103, 106]",88,Fri 12:00-13:00;Tue 14:00-15:00,,99.66666666666667,3,0,93
+C0126,Opt 376,Dr. Schultz V,UG,1,lab,"[51, 60, 66]",65,,whiteboard,59.0,3,0,55
+C0127,Econ 464,Dr. Garcia m,UG,1,lecture,"[59, 62, 66]",84,Wed 09:00-10:00;Wed 09:00-10:00,computers,62.333333333333336,3,0,68
+C0128,Opt 391,Dr. Garcia G,UG,1,lab,"[46, 36, 40]",37,,projector,40.666666666666664,3,0,43
+C0129,Sys 211,Dr. Singh L,PG,1,lab,"[21, 34, 30]",25,Wed 13:00-14:00;Mon 14:00-15:00,,28.333333333333332,3,1,25
+C0130,Opt 430,Dr. Schultz i,UG,1,lecture,"[66, 71, 47]",70,,computers,61.333333333333336,3,0,65
+C0131,Stat 432,Dr. Kumar H,UG,1,lecture,"[71, 73, 69]",75,,,71.0,3,0,71
+C0132,Networks 345,Dr. Kumar c,UG,2,lecture,"[53, 61, 61]",67,Mon 14:00-15:00;Wed 09:00-10:00,"smartboard,whiteboard",58.333333333333336,3,0,64
+C0133,Data 447,Dr. Müller S,UG,1,lecture,"[78, 69, 80]",85,Thu 13:00-14:00;Tue 15:00-16:00,smartboard,75.66666666666667,3,0,77
+C0134,Sys 337,Dr. Müller P,UG,1,lecture,"[58, 52, 56]",72,,"computers,lab_kits",55.333333333333336,3,0,62
+C0135,Econ 376,Dr. Garcia e,PG,1,lecture,"[53, 55, 52]",53,,whiteboard,53.333333333333336,3,1,50
+C0136,Mgmt 244,Dr. Garcia b,UG,1,lecture,"[74, 64, 83]",57,Wed 15:00-16:00,projector,73.66666666666667,3,0,63
+C0137,Mgmt 345,Dr. Mehta Z,UG,2,lecture,"[53, 53, 38]",47,Fri 13:00-14:00;Tue 15:00-16:00,projector,48.0,3,0,49
+C0138,Stat 358,Dr. Schultz i,PG,1,lecture,"[33, 45, 42]",37,,lab_kits,40.0,3,1,40
+C0139,Stat 171,Dr. Garcia e,UG,2,lab,"[66, 46, 67]",65,Fri 12:00-13:00;Wed 08:00-09:00,smartboard,59.666666666666664,3,0,60
+C0140,Opt 185,Dr. Kumar D,UG,1,lecture,"[70, 76, 58]",52,,"projector,computers",68.0,3,0,58
+C0141,Data 435,Dr. Schultz V,PG,1,lecture,"[26, 32, 35]",28,Tue 09:00-10:00,,31.0,3,1,28
+C0142,Data 463,Dr. Müller p,UG,1,lab,"[37, 52, 37]",44,Mon 14:00-15:00;Thu 10:00-11:00,,42.0,3,0,41
+C0143,Algo 315,Dr. Garcia G,UG,1,lab,"[78, 61, 80]",102,,"smartboard,lab_kits",73.0,3,0,85
+C0144,Opt 279,Dr. Mehta W,PG,1,lecture,"[15, 24, 29]",25,Thu 08:00-09:00,"whiteboard,computers",22.666666666666668,3,1,23
+C0145,Stat 408,Dr. Schultz E,UG,1,lab,"[49, 84, 53]",66,,smartboard,62.0,3,0,62
+C0146,Opt 240,Dr. Müller p,UG,2,lecture,"[62, 48, 44]",58,Thu 10:00-11:00,,51.333333333333336,3,0,55
+C0147,Stat 195,Dr. Garcia b,UG,2,lecture,"[41, 45, 45]",50,Wed 13:00-14:00,"computers,whiteboard",43.666666666666664,3,0,48
+C0148,Mgmt 366,Dr. Lee h,UG,1,lecture,"[50, 41, 42]",51,,"projector,computers",44.333333333333336,3,0,45
+C0149,Sys 379,Dr. Schultz r,UG,1,lab,"[67, 80, 77]",56,Tue 08:00-09:00;Thu 12:00-13:00,computers,74.66666666666667,3,0,61
+C0150,Opt 233,Dr. Schultz V,UG,1,lecture,"[77, 75, 63]",56,,,71.66666666666667,3,0,62
+C0151,AI 161,Dr. Ng K,UG,1,lecture,"[38, 37, 32]",56,Fri 08:00-09:00,computers,35.666666666666664,3,0,49
+C0152,Calc 262,Dr. Mehta n,UG,1,lecture,"[69, 57, 73]",68,,,66.33333333333333,3,0,65
+C0153,Stat 404,Dr. Kumar D,UG,1,lecture,"[81, 64, 86]",62,Wed 14:00-15:00;Tue 09:00-10:00,"whiteboard,lab_kits",77.0,3,0,68
+C0154,AI 288,Dr. Kumar g,UG,1,lecture,"[54, 63, 56]",48,,"smartboard,whiteboard",57.666666666666664,3,0,58
+C0155,Sys 435,Dr. Müller p,PG,1,lecture,"[3, 6, 4]",4,,"smartboard,lab_kits",4.333333333333333,3,1,4
+C0156,Data 303,Dr. Mehta n,UG,1,lecture,"[79, 77, 79]",103,,"projector,smartboard",78.33333333333333,3,0,75
+C0157,Data 318,Dr. Garcia C,UG,1,lecture,"[57, 44, 38]",54,,,46.333333333333336,3,0,51
+C0158,Econ 115,Dr. Smith Y,PG,1,lecture,"[38, 43, 48]",54,Wed 12:00-13:00;Tue 14:00-15:00,,43.0,3,1,49
+C0159,Opt 343,Dr. Schultz `,PG,1,lecture,"[38, 33, 40]",34,,smartboard,37.0,3,1,35
+C0160,Data 238,Dr. Mehta n,UG,1,lecture,"[57, 53, 60]",42,Wed 14:00-15:00,computers,56.666666666666664,3,0,48
+C0161,Stat 124,Dr. Ng N,UG,1,lecture,"[17, 32, 19]",22,Mon 08:00-09:00;Thu 10:00-11:00,"whiteboard,computers",22.666666666666668,3,0,24
+C0162,Sys 377,Dr. Schultz E,UG,1,lecture,"[41, 37, 61]",42,,,46.333333333333336,3,0,51
+C0163,Sys 427,Dr. Garcia b,UG,1,lecture,"[84, 61, 58]",57,Tue 08:00-09:00,lab_kits,67.66666666666667,3,0,57
+C0164,Opt 124,Dr. Garcia q,PG,1,lecture,"[20, 10, 16]",19,Wed 10:00-11:00,"projector,computers",15.333333333333334,3,1,18
+C0165,Econ 143,Dr. Kumar T,UG,1,lecture,"[52, 59, 58]",69,,lab_kits,56.333333333333336,3,0,62
+C0166,AI 176,Dr. Garcia m,UG,1,lecture,"[53, 48, 41]",48,,whiteboard,47.333333333333336,3,0,48
+C0167,Econ 298,Dr. Smith ^,PG,1,lecture,"[12, 13, 18]",12,Fri 11:00-12:00;Wed 15:00-16:00,smartboard,14.333333333333334,3,1,14
+C0168,Mgmt 138,Dr. Singh M,UG,1,lecture,"[76, 72, 69]",84,,,72.33333333333333,3,0,69
+C0169,Econ 494,Dr. Smith U,UG,1,lecture,"[91, 91, 92]",104,Thu 11:00-12:00,,91.33333333333333,3,0,105
+C0170,Econ 486,Dr. Lee \,UG,1,lecture,"[75, 84, 77]",84,,,78.66666666666667,3,0,75
+C0171,Algo 314,Dr. Müller o,UG,2,lecture,"[58, 47, 67]",54,Wed 09:00-10:00,,57.333333333333336,3,0,56
+C0172,Networks 378,Dr. Schultz E,UG,1,lecture,"[25, 14, 16]",21,Mon 15:00-16:00;Fri 12:00-13:00,,18.333333333333332,3,0,21
+C0173,Algo 263,Dr. Singh L,UG,1,lecture,"[65, 57, 64]",73,Tue 09:00-10:00;Thu 14:00-15:00,"projector,computers",62.0,3,0,62
+C0174,AI 232,Dr. Ng K,UG,1,lecture,"[41, 47, 49]",46,,"smartboard,whiteboard",45.666666666666664,3,0,50
+C0175,Econ 259,Dr. Smith ^,PG,1,lecture,"[26, 32, 39]",32,Thu 09:00-10:00,"smartboard,projector",32.333333333333336,3,1,32
+C0176,Mgmt 266,Dr. Smith ^,UG,1,lab,"[38, 39, 39]",40,,"lab_kits,computers",38.666666666666664,3,0,41
+C0177,Algo 225,Dr. Müller P,UG,1,lab,"[100, 117, 82]",94,Mon 14:00-15:00;Thu 13:00-14:00,lab_kits,99.66666666666667,3,0,93
+C0178,Stat 262,Dr. Singh k,UG,1,lecture,"[55, 55, 71]",50,,"lab_kits,projector",60.333333333333336,3,0,54
+C0179,Algo 387,Dr. Smith Y,PG,1,lecture,"[26, 30, 25]",25,,,27.0,3,1,26
+C0180,Data 494,Dr. Mehta A,PG,1,lecture,"[21, 15, 18]",23,,lab_kits,18.0,3,1,21
+C0181,Networks 457,Dr. Mehta l,UG,1,lecture,"[87, 63, 73]",67,,whiteboard,74.33333333333333,3,0,66
+C0182,Networks 433,Dr. Garcia m,UG,1,lab,"[66, 54, 69]",47,Tue 15:00-16:00,projector,63.0,3,0,49
+C0183,Data 426,Dr. Kumar D,UG,1,lecture,"[58, 45, 53]",51,,projector,52.0,3,0,51
+C0184,Stat 357,Dr. Müller S,UG,1,lecture,"[52, 53, 67]",60,,,57.333333333333336,3,0,54
+C0185,Opt 258,Dr. Kumar J,UG,1,lecture,"[66, 73, 73]",76,Tue 11:00-12:00,projector,70.66666666666667,3,0,74
+C0186,Algo 400,Dr. Mehta l,UG,1,lecture,"[56, 58, 53]",84,Tue 11:00-12:00;Mon 11:00-12:00,lab_kits,55.666666666666664,3,0,77
+C0187,Calc 408,Dr. Schultz r,UG,1,lecture,"[69, 67, 77]",66,,,71.0,3,0,71
+C0188,Calc 371,Dr. Schultz E,UG,1,lecture,"[39, 39, 46]",38,Tue 09:00-10:00;Thu 08:00-09:00,"lab_kits,whiteboard",41.333333333333336,3,0,40
+C0189,Calc 287,Dr. Mehta W,PG,2,lab,"[10, 11, 5]",6,Mon 14:00-15:00;Wed 08:00-09:00,"smartboard,whiteboard",8.666666666666666,3,1,7
+C0190,Sys 445,Dr. Singh I,UG,1,lecture,"[59, 67, 68]",68,Mon 11:00-12:00,"smartboard,projector",64.66666666666667,3,0,69
+C0191,Networks 306,Dr. Garcia C,UG,1,lab,"[68, 60, 67]",53,,projector,65.0,3,0,59
+C0192,Calc 347,Dr. Kumar g,UG,2,lecture,"[79, 93, 72]",77,Thu 12:00-13:00;Tue 12:00-13:00,"computers,whiteboard",81.33333333333333,3,0,81
+C0193,Econ 230,Dr. Singh R,UG,2,lecture,"[53, 46, 53]",58,,"smartboard,projector",50.666666666666664,3,0,55
+C0194,Sys 195,Dr. Singh Q,PG,1,lecture,"[38, 30, 34]",31,,"whiteboard,computers",34.0,3,1,33
+C0195,Data 375,Dr. Mehta n,UG,1,lab,"[49, 57, 39]",67,Mon 12:00-13:00;Wed 11:00-12:00,lab_kits,48.333333333333336,3,0,46
+C0196,AI 374,Dr. Garcia C,UG,1,lab,"[52, 50, 43]",34,Fri 08:00-09:00,computers,48.333333333333336,3,0,46
+C0197,Sys 118,Dr. Singh M,PG,1,lecture,"[31, 34, 21]",23,Wed 10:00-11:00,,28.666666666666668,3,1,27
+C0198,Stat 411,Dr. Mehta n,UG,1,lecture,"[35, 58, 47]",47,Thu 11:00-12:00,"lab_kits,projector",46.666666666666664,3,0,48
+C0199,Opt 335,Dr. Schultz r,UG,1,lecture,"[51, 42, 54]",46,,whiteboard,49.0,3,0,48

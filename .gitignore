@@ -1,19 +1,12 @@
-# Virtual environment
 venv/
 
-# Python cache
 __pycache__/
 *.pyc
 
-# Data files
-data/synthetic/*.csv
 
-# Model files
 models/*.joblib
 
-# OS files
 .DS_Store
 Thumbs.db
 
-# Streamlit cache
 .streamlit/
