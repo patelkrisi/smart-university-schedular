@@ -1,4 +1,3 @@
-# src/model.py
 import os
 import joblib
 from sklearn.ensemble import RandomForestRegressor
@@ -14,7 +13,6 @@ def train_model(X, y, out_path="models/rf_model.joblib"):
     model = RandomForestRegressor(n_estimators=150, random_state=42)
     model.fit(X, y)
 
-    # Ensure output directory exists
     out_dir = os.path.dirname(out_path)
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)

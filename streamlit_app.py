@@ -138,7 +138,7 @@ page = st.sidebar.radio(
 if page == "Overview":
 
     st.markdown("<h1>Smart University Resource Allocation & Scheduling System</h1>", unsafe_allow_html=True)
-    
+    st.markdown("<p>ML-powered demand forecasting + optimal classroom allocation.</p>", unsafe_allow_html=True)
 
     # KPIs
     col1, col2, col3, col4 = st.columns(4)

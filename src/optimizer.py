@@ -1,5 +1,3 @@
-# src/optimizer.py
-
 import pandas as pd
 
 def greedy_assign(courses_df, rooms_df, timeslots):
@@ -12,17 +10,14 @@ def greedy_assign(courses_df, rooms_df, timeslots):
 
     assignments = []
 
-    # Sort courses by predicted size descending to place big ones first
     sorted_courses = courses_df.sort_values("predicted_students", ascending=False)
 
-    # Track when each room is free
     room_free = {room: set(timeslots) for room in rooms_df["room_id"]}
 
     for _, course in sorted_courses.iterrows():
         needed = int(course["predicted_students"])
-        duration = int(course["duration"])  # not used yet but reserved
+        duration = int(course["duration"]) 
 
-        # Candidate rooms with enough capacity
         candidates = rooms_df[rooms_df["capacity"] >= needed].sort_values("capacity")
 
         assigned = False
@@ -31,7 +26,7 @@ def greedy_assign(courses_df, rooms_df, timeslots):
             r = room["room_id"]
 
             if len(room_free[r]) > 0:
-                ts = sorted(list(room_free[r]))[0]  # pick earliest available timeslot
+                ts = sorted(list(room_free[r]))[0]  
 
                 assignments.append({
                     "course_id": course["course_id"],
